@@ -345,7 +345,7 @@
       (reference "D10") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
     (path "/821eda06-2872-4c13-ad99-b3a99f858895/f89fa653-24b0-4a50-982c-5c8e738f548a"
-      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "")
+      (reference "J1") (unit 1) (value "Conn_01x02") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal")
     )
     (path "/766f3535-b0b1-46e9-b673-7d8e262ee23f/f41c83ad-c2e4-4442-b35a-9b84b2b3559a"
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0201_0603Metric")
@@ -387,7 +387,7 @@
       (reference "U1") (unit 1) (value "NE555D") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
     (path "/804002d8-0e3e-4763-a435-b746aea0c0c6/a590d58e-839f-47dc-a46c-3ce8be0a3e4c"
-      (reference "U2") (unit 1) (value "4017") (footprint "Package_DIP:DIP-4_W7.62mm")
+      (reference "U2") (unit 1) (value "4017") (footprint "Package_DIP:DIP-16_W7.62mm")
     )
   )
 )

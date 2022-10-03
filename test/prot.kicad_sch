@@ -199,7 +199,7 @@
     (uuid f89fa653-24b0-4a50-982c-5c8e738f548a)
     (property "Reference" "J1" (id 0) (at 107.95 83.82 0))
     (property "Value" "Conn_01x02" (id 1) (at 107.95 86.36 0))
-    (property "Footprint" "" (id 2) (at 107.95 92.71 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" (id 2) (at 107.95 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 107.95 92.71 0)

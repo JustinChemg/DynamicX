@@ -892,7 +892,7 @@
     (property "Value" "4017" (id 1) (at 122.6694 60.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_DIP:DIP-4_W7.62mm" (id 2) (at 120.65 78.74 0)
+    (property "Footprint" "Package_DIP:DIP-16_W7.62mm" (id 2) (at 120.65 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf" (id 3) (at 120.65 78.74 0)
