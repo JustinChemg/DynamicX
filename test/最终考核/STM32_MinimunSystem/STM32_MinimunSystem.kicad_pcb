@@ -2697,6 +2697,9 @@
   (gr_line (start 111.76 132.08) (end 111.76 45.72) (layer "Edge.Cuts") (width 0.1) (tstamp 64ed599a-bf0d-4064-92b4-e73a9e6eb596))
   (gr_arc (start 124.46 144.78) (mid 115.479744 141.060256) (end 111.76 132.08) (layer "Edge.Cuts") (width 0.1) (tstamp bea60519-6d09-4549-9f2d-07e20b0f1b5d))
   (gr_line (start 124.46 144.78) (end 195.58 144.78) (layer "Edge.Cuts") (width 0.1) (tstamp f24e8b23-2ea3-447f-b2f2-da2df418fcac))
+  (gr_text "爷们要战斗" (at 121.92 55.88 90) (layer "Edge.Cuts") (tstamp 798d127a-6104-4486-bed1-9ddc8085d358)
+    (effects (font (size 3 3) (thickness 0.45)))
+  )
 
   (segment (start 181.386104 89.121104) (end 178.227208 92.28) (width 0.25) (layer "F.Cu") (net 1) (tstamp 044c664e-513c-4802-a892-8888684dfce5))
   (segment (start 164.89 82.1975) (end 161.4325 78.74) (width 0.25) (layer "F.Cu") (net 1) (tstamp 0509f4e4-b794-40b9-a894-ae6a6374183f))
